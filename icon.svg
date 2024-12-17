@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Background -->
+  <rect width="512" height="512" rx="100" fill="#2196f3"/>
+
+  <!-- Notepad base -->
+  <rect x="96" y="64" width="320" height="384" rx="20" fill="white"/>
+
+  <!-- Lines representing text -->
+  <rect x="136" y="160" width="240" height="24" rx="12" fill="#e3f2fd"/>
+  <rect x="136" y="240" width="240" height="24" rx="12" fill="#e3f2fd"/>
+  <rect x="136" y="320" width="240" height="24" rx="12" fill="#e3f2fd"/>
+
+  <!-- Checkmarks -->
+  <path d="M128 152 L140 164 L160 144" stroke="#2196f3" stroke-width="8" fill="none"/>
+  <path d="M128 232 L140 244 L160 224" stroke="#2196f3" stroke-width="8" fill="none"/>
+  <path d="M128 312 L140 324 L160 304" stroke="#2196f3" stroke-width="8" fill="none"/>
+</svg>
